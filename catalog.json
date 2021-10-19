@@ -3,5 +3,25 @@
   "name": "Imagen 0",
   "description": "Primera imagen",
   "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga.jpg"
+  },
+  {
+  "name": "Imagen 1",
+  "description": "Segunda imagen",
+  "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga%20(1).jpg"
+  },
+  {
+  "name": "Imagen 2",
+  "description": "Tercera imagen",
+  "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga%20(2).jpg"
+  },
+  {
+  "name": "Imagen 3",
+  "description": "Cuarta imagen",
+  "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga%20(3).jpg"
+  },
+  {
+  "name": "Imagen 4",
+  "description": "Quinta imagen",
+  "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga%20(4).jpg"
   }
 ]
