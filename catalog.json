@@ -24,29 +24,29 @@
   "description": "Quinta imagen",
   "image_url": "https://raw.githubusercontent.com/acarneirod/fp/main/descarga%20(4).jpg"
   }
-    {
-    "name": "gatete200",
-    "description":"Se trata de un mamífero de contextura pequeña, carnívoro y cuyos rasgos salientes son: cabeza redonda, lengua áspera, patas cortas, uñas importantes, filosas y retráctiles, abundante pelaje y más bien suave, y las pupilas se le dilatan para poder ver mejor a instancias de la oscuridad.",
-    "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/gatete200.jpg"
+  {
+  "name": "gatete200",
+  "description":"Se trata de un mamífero de contextura pequeña, carnívoro y cuyos rasgos salientes son: cabeza redonda, lengua áspera, patas cortas, uñas importantes, filosas y retráctiles, abundante pelaje y más bien suave, y las pupilas se le dilatan para poder ver mejor a instancias de la oscuridad.",
+  "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/gatete200.jpg"
   },
-    {
-    "name": "hammster200",
-    "description": "Este hámster suele ser muy parecido a un ratón debido a su larga cola. Suelen ser tranquilos y muy tímidos, demás sus orejas son oscuras y muy afiladas, suelen ser amistosos sin embargo al pasar del tiempo las hembra puede volverse agresivas.\n Viven entre dos a tres años y miden 12 centímetros.",
-    "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/hammster200.jpg"
+  {
+  "name": "hammster200",
+  "description": "Este hámster suele ser muy parecido a un ratón debido a su larga cola. Suelen ser tranquilos y muy tímidos, demás sus orejas son oscuras y muy afiladas, suelen ser amistosos sin embargo al pasar del tiempo las hembra puede volverse agresivas.\n Viven entre dos a tres años y miden 12 centímetros.",
+  "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/hammster200.jpg"
   },
-    {
-    "name": "nutria200",
-    "description": "La nutria presenta un cuerpo alargado y extremidades proporcionalmente cortas y robustas. La cabeza es ancha y aplanada, el cuello no diferenciado, y el morro redondeado, provisto de abundantes y largas vibrisas táctiles (en hocico, boca y mentón), también presentes en ojos y antebrazos.",
-    "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/nutria200.jpg"
+  {
+  "name": "nutria200",
+  "description": "La nutria presenta un cuerpo alargado y extremidades proporcionalmente cortas y robustas. La cabeza es ancha y aplanada, el cuello no diferenciado, y el morro redondeado, provisto de abundantes y largas vibrisas táctiles (en hocico, boca y mentón), también presentes en ojos y antebrazos.",
+  "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/nutria200.jpg"
   },
-    {
-    "name": "pandita200",
-    "description": "Tienen un pelaje erizado y de color pardo y llevan en la cabeza una máscara blanca. El oso panda es un animal grande, con pelaje blanco o amarillento, largo, denso y de aspecto lanoso; sus hombros, patas, orejas y zona de los ojos son de color negro; la cola es ancha y corta.",
-    "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/pandita200.jpg"
+  {
+  "name": "pandita200",
+  "description": "Tienen un pelaje erizado y de color pardo y llevan en la cabeza una máscara blanca. El oso panda es un animal grande, con pelaje blanco o amarillento, largo, denso y de aspecto lanoso; sus hombros, patas, orejas y zona de los ojos son de color negro; la cola es ancha y corta.",
+  "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/pandita200.jpg"
   },
-    {
-    "name": "perezoso200",
-    "description": "El perezoso didáctilo de Hoffmann (Choloepus hoffmanni) es una especie de mamífero placentario del orden Pilosa propia de Centroamérica y Sudamérica. Es un animal solitario, nocturno y arborícola, que habita en la selva secundaria y desarrollada y en los bosques caducifolios.",
-    "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/perezoso200.jpg"
+  {
+  "name": "perezoso200",
+  "description": "El perezoso didáctilo de Hoffmann (Choloepus hoffmanni) es una especie de mamífero placentario del orden Pilosa propia de Centroamérica y Sudamérica. Es un animal solitario, nocturno y arborícola, que habita en la selva secundaria y desarrollada y en los bosques caducifolios.",
+  "image_url": "https://raw.githubusercontent.com/Jacobman55/fp/main/perezoso200.jpg"
   }
 ]
